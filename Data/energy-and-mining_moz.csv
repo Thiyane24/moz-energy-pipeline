@@ -1,0 +1,1225 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Mozambique,MOZ,2021,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,11.95
+Mozambique,MOZ,2020,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,11.5
+Mozambique,MOZ,2019,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,11.56
+Mozambique,MOZ,2018,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,11.7
+Mozambique,MOZ,2017,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,11.92
+Mozambique,MOZ,2016,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,12.29
+Mozambique,MOZ,2015,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,12.54
+Mozambique,MOZ,2014,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,12.94
+Mozambique,MOZ,2013,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,13.4
+Mozambique,MOZ,2012,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,13.35
+Mozambique,MOZ,2011,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,14.14
+Mozambique,MOZ,2010,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,12.66
+Mozambique,MOZ,2009,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,14.82
+Mozambique,MOZ,2008,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,14.49
+Mozambique,MOZ,2007,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,15.17
+Mozambique,MOZ,2006,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,20.21
+Mozambique,MOZ,2005,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,21.44
+Mozambique,MOZ,2004,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,22.44
+Mozambique,MOZ,2003,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,23.38
+Mozambique,MOZ,2002,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,23.75
+Mozambique,MOZ,2001,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,25.24
+Mozambique,MOZ,2000,Energy intensity level of primary energy (MJ/$2021 PPP GDP),EG.EGY.PRIM.PP.KD,26.91
+Mozambique,MOZ,2024,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,12.3
+Mozambique,MOZ,2023,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.9
+Mozambique,MOZ,2022,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,5
+Mozambique,MOZ,2021,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,3.8
+Mozambique,MOZ,2020,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.6
+Mozambique,MOZ,2019,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,5.2
+Mozambique,MOZ,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8
+Mozambique,MOZ,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.4
+Mozambique,MOZ,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.7
+Mozambique,MOZ,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.9
+Mozambique,MOZ,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.7
+Mozambique,MOZ,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.8
+Mozambique,MOZ,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.3
+Mozambique,MOZ,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,3.8
+Mozambique,MOZ,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.4
+Mozambique,MOZ,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.2
+Mozambique,MOZ,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.3
+Mozambique,MOZ,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.5
+Mozambique,MOZ,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2
+Mozambique,MOZ,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.5
+Mozambique,MOZ,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1
+Mozambique,MOZ,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1
+Mozambique,MOZ,2024,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.8
+Mozambique,MOZ,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,78.9
+Mozambique,MOZ,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.4
+Mozambique,MOZ,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,77.4
+Mozambique,MOZ,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,74.8
+Mozambique,MOZ,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,72.3
+Mozambique,MOZ,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,72.2
+Mozambique,MOZ,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,60.5
+Mozambique,MOZ,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.2
+Mozambique,MOZ,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,68
+Mozambique,MOZ,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,68
+Mozambique,MOZ,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,61.6
+Mozambique,MOZ,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,59.9
+Mozambique,MOZ,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,54.5
+Mozambique,MOZ,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,56.5
+Mozambique,MOZ,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,43.1
+Mozambique,MOZ,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,38.9
+Mozambique,MOZ,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,37.5
+Mozambique,MOZ,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,38.5
+Mozambique,MOZ,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,35.9
+Mozambique,MOZ,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,33.4
+Mozambique,MOZ,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,25
+Mozambique,MOZ,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,28.3
+Mozambique,MOZ,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,20.1
+Mozambique,MOZ,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,23.3
+Mozambique,MOZ,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,20.6718463897705
+Mozambique,MOZ,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,18.1166152954102
+Mozambique,MOZ,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,25.8
+Mozambique,MOZ,2024,Access to electricity (% of population),EG.ELC.ACCS.ZS,36.9
+Mozambique,MOZ,2023,Access to electricity (% of population),EG.ELC.ACCS.ZS,36
+Mozambique,MOZ,2022,Access to electricity (% of population),EG.ELC.ACCS.ZS,33.2
+Mozambique,MOZ,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.5
+Mozambique,MOZ,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,30.6
+Mozambique,MOZ,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,29.7
+Mozambique,MOZ,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.1
+Mozambique,MOZ,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,24.3
+Mozambique,MOZ,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.2
+Mozambique,MOZ,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,24
+Mozambique,MOZ,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,24.8
+Mozambique,MOZ,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,22.4
+Mozambique,MOZ,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,21.2
+Mozambique,MOZ,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.2
+Mozambique,MOZ,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.9
+Mozambique,MOZ,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,15
+Mozambique,MOZ,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.6
+Mozambique,MOZ,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,12.4
+Mozambique,MOZ,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,13
+Mozambique,MOZ,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,11.8
+Mozambique,MOZ,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,10.7
+Mozambique,MOZ,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,8.1
+Mozambique,MOZ,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,8.4
+Mozambique,MOZ,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.7
+Mozambique,MOZ,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.1
+Mozambique,MOZ,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.87912368774414
+Mozambique,MOZ,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.66317558288574
+Mozambique,MOZ,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.6
+Mozambique,MOZ,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Mozambique,MOZ,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,4.04040404040404
+Mozambique,MOZ,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.6945107398568
+Mozambique,MOZ,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,16.5966386554622
+Mozambique,MOZ,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.6659436008677
+Mozambique,MOZ,2022,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,16.295122200634
+Mozambique,MOZ,2021,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,17.0174415522451
+Mozambique,MOZ,2020,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,16.4879638389572
+Mozambique,MOZ,2019,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,20.6258890469417
+Mozambique,MOZ,2018,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,18.2040959215824
+Mozambique,MOZ,2017,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,19.5124716553288
+Mozambique,MOZ,2016,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,17.1335299073294
+Mozambique,MOZ,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,6.97272481771537
+Mozambique,MOZ,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1.30595881674057
+Mozambique,MOZ,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,1.41737032569361
+Mozambique,MOZ,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.72132020228906
+Mozambique,MOZ,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.646052236565596
+Mozambique,MOZ,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.113636363636364
+Mozambique,MOZ,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.0764391133062856
+Mozambique,MOZ,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.0856615709014233
+Mozambique,MOZ,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.0806601724886765
+Mozambique,MOZ,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.135336310732169
+Mozambique,MOZ,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.157539384846212
+Mozambique,MOZ,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.39142273655548
+Mozambique,MOZ,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.338023022108533
+Mozambique,MOZ,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.298179535467671
+Mozambique,MOZ,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.369778973022943
+Mozambique,MOZ,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.453421269579555
+Mozambique,MOZ,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.31055900621118
+Mozambique,MOZ,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,0.392955901615485
+Mozambique,MOZ,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,2.77227722772277
+Mozambique,MOZ,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,5.60165975103734
+Mozambique,MOZ,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,7.0048309178744
+Mozambique,MOZ,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,7.26817042606516
+Mozambique,MOZ,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,12.1212121212121
+Mozambique,MOZ,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,21.7183770883055
+Mozambique,MOZ,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,31.0924369747899
+Mozambique,MOZ,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,36.8763557483731
+Mozambique,MOZ,2023,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.7800934063175
+Mozambique,MOZ,2022,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.6967326277036
+Mozambique,MOZ,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,81.9878081102571
+Mozambique,MOZ,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.5257515240698
+Mozambique,MOZ,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.6440499394195
+Mozambique,MOZ,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,81.086284347471
+Mozambique,MOZ,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,79.6848429883233
+Mozambique,MOZ,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,82.1575234284511
+Mozambique,MOZ,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,92.3097694010909
+Mozambique,MOZ,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,98.2993197278912
+Mozambique,MOZ,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,98.2242176506064
+Mozambique,MOZ,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,98.8820867713601
+Mozambique,MOZ,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,98.9552686880817
+Mozambique,MOZ,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5633971291866
+Mozambique,MOZ,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.6648438878109
+Mozambique,MOZ,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5914602003163
+Mozambique,MOZ,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.6649500527393
+Mozambique,MOZ,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5872242522669
+Mozambique,MOZ,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5048762190548
+Mozambique,MOZ,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.28522804629
+Mozambique,MOZ,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.3056824410744
+Mozambique,MOZ,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.450721908349
+Mozambique,MOZ,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5125640810152
+Mozambique,MOZ,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.4641384995878
+Mozambique,MOZ,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5600414078675
+Mozambique,MOZ,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,99.5051666424101
+Mozambique,MOZ,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,96.7326732673267
+Mozambique,MOZ,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,93.1535269709544
+Mozambique,MOZ,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,91.5458937198068
+Mozambique,MOZ,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,91.7293233082707
+Mozambique,MOZ,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,86.8686868686869
+Mozambique,MOZ,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,77.5656324582339
+Mozambique,MOZ,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.8571428571429
+Mozambique,MOZ,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.6052060737527
+Mozambique,MOZ,2023,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.6223070356049
+Mozambique,MOZ,2022,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.2777010788976
+Mozambique,MOZ,2021,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.5314073681421
+Mozambique,MOZ,2020,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.5469833928947
+Mozambique,MOZ,2019,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.5814676289311
+Mozambique,MOZ,2018,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.5358497170527
+Mozambique,MOZ,2017,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.7545629747194
+Mozambique,MOZ,2016,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.119932610298
+Mozambique,MOZ,2015,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.7603283469244
+Mozambique,MOZ,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.7594752186589
+Mozambique,MOZ,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.018628962005
+Mozambique,MOZ,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.4349214799042
+Mozambique,MOZ,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.3506454518163
+Mozambique,MOZ,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.694976076555
+Mozambique,MOZ,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3646733697889
+Mozambique,MOZ,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.7865050079072
+Mozambique,MOZ,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.462989390085
+Mozambique,MOZ,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.0411422384626
+Mozambique,MOZ,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.2205551387847
+Mozambique,MOZ,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.9635806671205
+Mozambique,MOZ,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.6804312077471
+Mozambique,MOZ,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.5853735091023
+Mozambique,MOZ,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.5975292041348
+Mozambique,MOZ,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0886232481451
+Mozambique,MOZ,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,2.74327122153209
+Mozambique,MOZ,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.3623926648232
+Mozambique,MOZ,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,31.1881188118812
+Mozambique,MOZ,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,71.1618257261411
+Mozambique,MOZ,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,47.1014492753623
+Mozambique,MOZ,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,49.6240601503759
+Mozambique,MOZ,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.7171717171717
+Mozambique,MOZ,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.5584725536993
+Mozambique,MOZ,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.30252100840336
+Mozambique,MOZ,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.6182212581345
+Mozambique,MOZ,2023,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.6581127906393
+Mozambique,MOZ,2022,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.651684818735
+Mozambique,MOZ,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,16.1197985687782
+Mozambique,MOZ,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.7609838133277
+Mozambique,MOZ,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.8914818521835
+Mozambique,MOZ,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,16.7201446823406
+Mozambique,MOZ,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.831538374334
+Mozambique,MOZ,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.8783826471517
+Mozambique,MOZ,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,6.8693632877896
+Mozambique,MOZ,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.26943634596696
+Mozambique,MOZ,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.41392481404543
+Mozambique,MOZ,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.718658504125632
+Mozambique,MOZ,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.636445511858301
+Mozambique,MOZ,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.107655502392344
+Mozambique,MOZ,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0705591815134944
+Mozambique,MOZ,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0790722192936215
+Mozambique,MOZ,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0620462865297512
+Mozambique,MOZ,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0541345242928678
+Mozambique,MOZ,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0525131282820705
+Mozambique,MOZ,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0595643294758339
+Mozambique,MOZ,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.027407272062854
+Mozambique,MOZ,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0313873195229127
+Mozambique,MOZ,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0168081351374065
+Mozambique,MOZ,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.0206100577081616
+Mozambique,MOZ,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.025879917184265
+Mozambique,MOZ,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.02910784456411
+Mozambique,MOZ,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.198019801980198
+Mozambique,MOZ,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.20746887966805
+Mozambique,MOZ,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.241545893719807
+Mozambique,MOZ,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.25062656641604
+Mozambique,MOZ,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.252525252525253
+Mozambique,MOZ,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.238663484486874
+Mozambique,MOZ,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Mozambique,MOZ,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Mozambique,MOZ,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Mozambique,MOZ,2023,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.798473359112138
+Mozambique,MOZ,2022,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.644270593649333
+Mozambique,MOZ,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.895838855022528
+Mozambique,MOZ,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.725247004414547
+Mozambique,MOZ,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.732234104198493
+Mozambique,MOZ,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.48182719794644
+Mozambique,MOZ,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.67872123342025
+Mozambique,MOZ,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.25334316099821
+Mozambique,MOZ,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.102608413889939
+Mozambique,MOZ,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.0364431486880466
+Mozambique,MOZ,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.00335053273470482
+Mozambique,MOZ,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.00266169816342827
+Mozambique,MOZ,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.00960672470729511
+Mozambique,MOZ,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.00598086124401914
+Mozambique,MOZ,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.0058799317927912
+Mozambique,MOZ,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.00658935160780179
+Mozambique,MOZ,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.0186138859589254
+Mozambique,MOZ,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.0812017864393017
+Mozambique,MOZ,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.105026256564141
+Mozambique,MOZ,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.331858407079646
+Mozambique,MOZ,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.310615750045679
+Mozambique,MOZ,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.266792215944758
+Mozambique,MOZ,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.352970837885537
+Mozambique,MOZ,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.432811211871393
+Mozambique,MOZ,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.284679089026915
+Mozambique,MOZ,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.363848057051375
+Mozambique,MOZ,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.57425742574257
+Mozambique,MOZ,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.39419087136929
+Mozambique,MOZ,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.76328502415459
+Mozambique,MOZ,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.01754385964912
+Mozambique,MOZ,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.82828282828283
+Mozambique,MOZ,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.78520286396181
+Mozambique,MOZ,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.4957983193277
+Mozambique,MOZ,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,23.2104121475054
+Mozambique,MOZ,2021,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,82.7092499337397
+Mozambique,MOZ,2020,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,83.2454277906243
+Mozambique,MOZ,2019,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,78.6967813306643
+Mozambique,MOZ,2018,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,81.5391750773
+Mozambique,MOZ,2017,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,80.0875184219476
+Mozambique,MOZ,2016,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,82.5094766768453
+Mozambique,MOZ,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,92.6451909056543
+Mozambique,MOZ,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.7634232264334
+Mozambique,MOZ,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.6881994237084
+Mozambique,MOZ,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.3527415491083
+Mozambique,MOZ,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.3869708796157
+Mozambique,MOZ,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.8571172248804
+Mozambique,MOZ,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9262656553184
+Mozambique,MOZ,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9194122298366
+Mozambique,MOZ,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9206427995285
+Mozambique,MOZ,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.8660847205305
+Mozambique,MOZ,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.8420105026257
+Mozambique,MOZ,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.6040673927842
+Mozambique,MOZ,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.6603325415677
+Mozambique,MOZ,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.6997018204645
+Mozambique,MOZ,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.6261030338684
+Mozambique,MOZ,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,91.1371599340478
+Mozambique,MOZ,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.4565217391304
+Mozambique,MOZ,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.5051666424101
+Mozambique,MOZ,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,96.7326732673267
+Mozambique,MOZ,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,93.1535269709544
+Mozambique,MOZ,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,91.5458937198068
+Mozambique,MOZ,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,91.7293233082707
+Mozambique,MOZ,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,86.8686868686869
+Mozambique,MOZ,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,77.5656324582339
+Mozambique,MOZ,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.8571428571429
+Mozambique,MOZ,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,61.6052060737527
+Mozambique,MOZ,2021,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,136100000
+Mozambique,MOZ,2020,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,136940000
+Mozambique,MOZ,2019,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,10010000
+Mozambique,MOZ,2018,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,77630000
+Mozambique,MOZ,2017,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,71040000
+Mozambique,MOZ,2016,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,66850000
+Mozambique,MOZ,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,62110000
+Mozambique,MOZ,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,76410000
+Mozambique,MOZ,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,69240000
+Mozambique,MOZ,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,70730000
+Mozambique,MOZ,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,71900000
+Mozambique,MOZ,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,49110000
+Mozambique,MOZ,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,44460000
+Mozambique,MOZ,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,49770000
+Mozambique,MOZ,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,41210000
+Mozambique,MOZ,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,41210000
+Mozambique,MOZ,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,44940000
+Mozambique,MOZ,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,37470000
+Mozambique,MOZ,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,38820000
+Mozambique,MOZ,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,31730000
+Mozambique,MOZ,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,13510000
+Mozambique,MOZ,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,-808050000
+Mozambique,MOZ,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,-8000000
+Mozambique,MOZ,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Mozambique,MOZ,2021,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.72144182348264
+Mozambique,MOZ,2020,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.719676266554551
+Mozambique,MOZ,2019,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.052731391244798
+Mozambique,MOZ,2018,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.452890729829065
+Mozambique,MOZ,2017,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.402675433624306
+Mozambique,MOZ,2016,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.35195324839423
+Mozambique,MOZ,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.335421504563374
+Mozambique,MOZ,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.464103498542274
+Mozambique,MOZ,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.463981773101923
+Mozambique,MOZ,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.470654777748203
+Mozambique,MOZ,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.431702191534074
+Mozambique,MOZ,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.29372009569378
+Mozambique,MOZ,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.261421767507497
+Mozambique,MOZ,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.327952029520295
+Mozambique,MOZ,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.255692746789105
+Mozambique,MOZ,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.278860468263635
+Mozambique,MOZ,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.337134283570893
+Mozambique,MOZ,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.318839346494214
+Mozambique,MOZ,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.354650100493331
+Mozambique,MOZ,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.248979912115505
+Mozambique,MOZ,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.113538952853181
+Mozambique,MOZ,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,-8.32697856553998
+Mozambique,MOZ,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,-0.10351966873706
+Mozambique,MOZ,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Mozambique,MOZ,2021,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,76.9
+Mozambique,MOZ,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,80.2
+Mozambique,MOZ,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,77.5
+Mozambique,MOZ,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,79
+Mozambique,MOZ,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,78.2
+Mozambique,MOZ,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,77.4
+Mozambique,MOZ,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,80.1
+Mozambique,MOZ,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,81.2
+Mozambique,MOZ,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,83.1
+Mozambique,MOZ,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.5
+Mozambique,MOZ,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.4
+Mozambique,MOZ,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.9
+Mozambique,MOZ,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.1
+Mozambique,MOZ,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,88.1
+Mozambique,MOZ,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.5
+Mozambique,MOZ,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.1
+Mozambique,MOZ,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.7
+Mozambique,MOZ,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.9
+Mozambique,MOZ,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.7
+Mozambique,MOZ,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.2
+Mozambique,MOZ,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93
+Mozambique,MOZ,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.6
+Mozambique,MOZ,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.2
+Mozambique,MOZ,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94
+Mozambique,MOZ,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.6
+Mozambique,MOZ,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.1
+Mozambique,MOZ,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.8
+Mozambique,MOZ,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.1
+Mozambique,MOZ,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.8
+Mozambique,MOZ,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93
+Mozambique,MOZ,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.2
+Mozambique,MOZ,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93
+Mozambique,MOZ,2023,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.6309207386941
+Mozambique,MOZ,2022,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.40939052478921
+Mozambique,MOZ,2021,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.12681928792412
+Mozambique,MOZ,2020,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.11608908586804
+Mozambique,MOZ,2019,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.86035548332399
+Mozambique,MOZ,2018,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.61936944877187
+Mozambique,MOZ,2017,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.45060867599522
+Mozambique,MOZ,2016,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.62149427985714
+Mozambique,MOZ,2015,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.42172674723429
+Mozambique,MOZ,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.04134661275026
+Mozambique,MOZ,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.92642040090725
+Mozambique,MOZ,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.94899483127384
+Mozambique,MOZ,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.86799657337253
+Mozambique,MOZ,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.14658763111031
+Mozambique,MOZ,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.65126456013914
+Mozambique,MOZ,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.70522455634191
+Mozambique,MOZ,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,2.54674677949766
+Mozambique,MOZ,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.86237834070709
+Mozambique,MOZ,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.69947369696631
+Mozambique,MOZ,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.57921896550612
+Mozambique,MOZ,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.47219816119073
+Mozambique,MOZ,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.41661685579708
+Mozambique,MOZ,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.30819871558621
+Mozambique,MOZ,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.19175230281227
+Mozambique,MOZ,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.22023145060018
+Mozambique,MOZ,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.10197483099217
+Mozambique,MOZ,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,1.00139277225932
+Mozambique,MOZ,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.909548507614722
+Mozambique,MOZ,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.824537261024981
+Mozambique,MOZ,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.811472565356568
+Mozambique,MOZ,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.756789423091344
+Mozambique,MOZ,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.679676690954641
+Mozambique,MOZ,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.727576467967944
+Mozambique,MOZ,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,0.667034224245841
+Mozambique,MOZ,2023,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.16915006368442
+Mozambique,MOZ,2022,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.11659741293702
+Mozambique,MOZ,2021,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.12681928792412
+Mozambique,MOZ,2020,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.27501623868429
+Mozambique,MOZ,2019,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.24976302972236
+Mozambique,MOZ,2018,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.20162012059441
+Mozambique,MOZ,2017,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.12111423221916
+Mozambique,MOZ,2016,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.0385012458072
+Mozambique,MOZ,2015,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.92727117838571
+Mozambique,MOZ,2014,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.78249317776269
+Mozambique,MOZ,2013,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.64131936144975
+Mozambique,MOZ,2012,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.66888915350226
+Mozambique,MOZ,2011,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.4392853207696
+Mozambique,MOZ,2010,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.85121890361129
+Mozambique,MOZ,2009,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.28441139038649
+Mozambique,MOZ,2008,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.37192744981105
+Mozambique,MOZ,2007,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.23555414132257
+Mozambique,MOZ,2006,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,2.43019101996387
+Mozambique,MOZ,2005,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,2.28600681774394
+Mozambique,MOZ,2004,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,2.19085387455635
+Mozambique,MOZ,2003,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,2.09730516845851
+Mozambique,MOZ,2002,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,2.05796771132311
+Mozambique,MOZ,2001,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.92999809853435
+Mozambique,MOZ,2000,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.79779288323199
+Mozambique,MOZ,1999,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.88245118511536
+Mozambique,MOZ,1998,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.72407358999946
+Mozambique,MOZ,1997,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.58431757220951
+Mozambique,MOZ,1996,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.46382444039601
+Mozambique,MOZ,1995,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.3513019988112
+Mozambique,MOZ,1994,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.35777444476001
+Mozambique,MOZ,1993,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.29331489540875
+Mozambique,MOZ,1992,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.18906523976273
+Mozambique,MOZ,1991,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.30187055988707
+Mozambique,MOZ,1990,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,1.23390412537216
+Mozambique,MOZ,2022,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-106.352427255745
+Mozambique,MOZ,2021,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-74.3114353674017
+Mozambique,MOZ,2020,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-63.5409926562081
+Mozambique,MOZ,2019,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-82.4567951426611
+Mozambique,MOZ,2018,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-110.812960990278
+Mozambique,MOZ,2017,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-123.059393541235
+Mozambique,MOZ,2016,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-73.7472209539496
+Mozambique,MOZ,2015,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-44.3553661863917
+Mozambique,MOZ,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-44.2543454834516
+Mozambique,MOZ,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-38.854846709989
+Mozambique,MOZ,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-32.0401773225162
+Mozambique,MOZ,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-21.5136719015939
+Mozambique,MOZ,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-28.8061339832341
+Mozambique,MOZ,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-25.209169889047
+Mozambique,MOZ,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-27.6710389366915
+Mozambique,MOZ,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-25.0317405068537
+Mozambique,MOZ,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-20.99051989161
+Mozambique,MOZ,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-18.0291798872155
+Mozambique,MOZ,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-7.39111530230221
+Mozambique,MOZ,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,5.28359937530337
+Mozambique,MOZ,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-0.953834414345669
+Mozambique,MOZ,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,0.928478074436415
+Mozambique,MOZ,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-0.269455699487043
+Mozambique,MOZ,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2.12773425434531
+Mozambique,MOZ,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,1.30409308377756
+Mozambique,MOZ,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.2508430581227
+Mozambique,MOZ,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.04802868463473
+Mozambique,MOZ,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.33654830540439
+Mozambique,MOZ,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.35396426709636
+Mozambique,MOZ,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.69835193875426
+Mozambique,MOZ,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.32943444310126
+Mozambique,MOZ,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,5.85726506676364
+Mozambique,MOZ,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,6.34727536505875
+Mozambique,MOZ,2023,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.67
+Mozambique,MOZ,2022,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.93
+Mozambique,MOZ,2021,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.93
+Mozambique,MOZ,2020,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,12.85
+Mozambique,MOZ,2019,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.97
+Mozambique,MOZ,2018,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.25
+Mozambique,MOZ,2017,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.55
+Mozambique,MOZ,2016,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,12.89
+Mozambique,MOZ,2015,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,14.38
+Mozambique,MOZ,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,14.08
+Mozambique,MOZ,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,13.22
+Mozambique,MOZ,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,14.39
+Mozambique,MOZ,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,16.16
+Mozambique,MOZ,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,19.58
+Mozambique,MOZ,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,18.14
+Mozambique,MOZ,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,17.59
+Mozambique,MOZ,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,19.17
+Mozambique,MOZ,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,14.2
+Mozambique,MOZ,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,13.23
+Mozambique,MOZ,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.86
+Mozambique,MOZ,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.44
+Mozambique,MOZ,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,14.04
+Mozambique,MOZ,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,13.49
+Mozambique,MOZ,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.56
+Mozambique,MOZ,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.72
+Mozambique,MOZ,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.85
+Mozambique,MOZ,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.28
+Mozambique,MOZ,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.61
+Mozambique,MOZ,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.52
+Mozambique,MOZ,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.52
+Mozambique,MOZ,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.5
+Mozambique,MOZ,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.48
+Mozambique,MOZ,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.48
+Mozambique,MOZ,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.42
+Mozambique,MOZ,2023,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2022,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2021,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2020,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2019,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2018,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2017,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2016,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Mozambique,MOZ,2015,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,23.6836575134019
+Mozambique,MOZ,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,14.8547731169751
+Mozambique,MOZ,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,10.4122658924145
+Mozambique,MOZ,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,9.83029447803895
+Mozambique,MOZ,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,10.6684370106721
+Mozambique,MOZ,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,10.8454968526418
+Mozambique,MOZ,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,9.17662925792601
+Mozambique,MOZ,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,8.81605230433053
+Mozambique,MOZ,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,9.29156906767425
+Mozambique,MOZ,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.13950735170736
+Mozambique,MOZ,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.91919415182953
+Mozambique,MOZ,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.63864943108334
+Mozambique,MOZ,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.75866379041067
+Mozambique,MOZ,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.91113490172419
+Mozambique,MOZ,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.5583099597785
+Mozambique,MOZ,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.73114250813345
+Mozambique,MOZ,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.58207669951974
+Mozambique,MOZ,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.33145376184836
+Mozambique,MOZ,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.52770748416863
+Mozambique,MOZ,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.6050180258221
+Mozambique,MOZ,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.7437695734837
+Mozambique,MOZ,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.46197733282774
+Mozambique,MOZ,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,6.27163354581407
+Mozambique,MOZ,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.619168613389
+Mozambique,MOZ,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.02250585643844
+Mozambique,MOZ,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,5.56600729090025
+Mozambique,MOZ,2023,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,239.857041537207
+Mozambique,MOZ,2022,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,242.919066328262
+Mozambique,MOZ,2021,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,242.317370892928
+Mozambique,MOZ,2020,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,233.917240115038
+Mozambique,MOZ,2019,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,235.307237840348
+Mozambique,MOZ,2018,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,238.00342993848
+Mozambique,MOZ,2017,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,242.652822428927
+Mozambique,MOZ,2016,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,247.616612979433
+Mozambique,MOZ,2015,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,254.629730053693
+Mozambique,MOZ,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,264.375889923347
+Mozambique,MOZ,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,274.625733350085
+Mozambique,MOZ,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,272.562063927556
+Mozambique,MOZ,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,290.758081035345
+Mozambique,MOZ,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,259.658052431738
+Mozambique,MOZ,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,304.468558027478
+Mozambique,MOZ,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,296.566285865977
+Mozambique,MOZ,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,309.066069156005
+Mozambique,MOZ,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,411.490286888998
+Mozambique,MOZ,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,437.444014706352
+Mozambique,MOZ,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,456.443038768389
+Mozambique,MOZ,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,476.802334271168
+Mozambique,MOZ,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,485.916272883154
+Mozambique,MOZ,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,518.135225500691
+Mozambique,MOZ,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,556.237600741998
+Mozambique,MOZ,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,531.222274397897
+Mozambique,MOZ,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,580.021645131931
+Mozambique,MOZ,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,631.186586288622
+Mozambique,MOZ,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,683.142030153199
+Mozambique,MOZ,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,740.027026438019
+Mozambique,MOZ,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,736.499352936897
+Mozambique,MOZ,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,773.206899224609
+Mozambique,MOZ,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,840.996748167947
+Mozambique,MOZ,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,768.125519396294
+Mozambique,MOZ,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)",EG.USE.COMM.GD.PP.KD,810.43573762134
+Mozambique,MOZ,2023,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,65.2371502049157
+Mozambique,MOZ,2022,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,65.8060635716761
+Mozambique,MOZ,2021,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,67.0010858133895
+Mozambique,MOZ,2020,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.9342102286352
+Mozambique,MOZ,2019,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,67.7375424877254
+Mozambique,MOZ,2018,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,67.5070903019054
+Mozambique,MOZ,2017,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,67.4626872480834
+Mozambique,MOZ,2016,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,66.7609634330446
+Mozambique,MOZ,2015,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,66.9893364790523
+Mozambique,MOZ,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,67.7975848188615
+Mozambique,MOZ,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.0686680979305
+Mozambique,MOZ,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,73.0893176095892
+Mozambique,MOZ,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,72.7019468265012
+Mozambique,MOZ,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,71.8746937255389
+Mozambique,MOZ,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,76.0697758055456
+Mozambique,MOZ,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,75.4591529992824
+Mozambique,MOZ,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,74.2774269471102
+Mozambique,MOZ,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,81.3919704527241
+Mozambique,MOZ,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,82.6616601776288
+Mozambique,MOZ,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,82.3299885369668
+Mozambique,MOZ,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,83.69179296105
+Mozambique,MOZ,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,86.157708828199
+Mozambique,MOZ,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,86.1354869130161
+Mozambique,MOZ,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,89.0587679553967
+Mozambique,MOZ,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,92.671917558195
+Mozambique,MOZ,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,92.7146200049606
+Mozambique,MOZ,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,91.9234120430625
+Mozambique,MOZ,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,92.9742229989303
+Mozambique,MOZ,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,93.0353390345847
+Mozambique,MOZ,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,93.3565549815964
+Mozambique,MOZ,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,92.6245655620865
+Mozambique,MOZ,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,93.3266899728821
+Mozambique,MOZ,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,94.0476830059552
+Mozambique,MOZ,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,93.7682118388768
+Mozambique,MOZ,2023,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,390.662628035663
+Mozambique,MOZ,2022,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,397.688086989546
+Mozambique,MOZ,2021,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,406.177659755644
+Mozambique,MOZ,2020,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,417.428866872611
+Mozambique,MOZ,2019,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,459.102715197705
+Mozambique,MOZ,2018,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,450.331173296726
+Mozambique,MOZ,2017,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,472.868499704595
+Mozambique,MOZ,2016,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,481.909112175558
+Mozambique,MOZ,2015,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,477.218782945574
+Mozambique,MOZ,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,466.565006267335
+Mozambique,MOZ,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,486.076524180421
+Mozambique,MOZ,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,483.814385217163
+Mozambique,MOZ,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,493.254715339596
+Mozambique,MOZ,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,466.145939201891
+Mozambique,MOZ,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,455.703653288299
+Mozambique,MOZ,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,454.969687936717
+Mozambique,MOZ,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,470.085098696967
+Mozambique,MOZ,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,467.453664864153
+Mozambique,MOZ,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,457.43398936466
+Mozambique,MOZ,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,452.412217488706
+Mozambique,MOZ,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,375.300213098122
+Mozambique,MOZ,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,264.738396372087
+Mozambique,MOZ,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,273.388396173016
+Mozambique,MOZ,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,123.168380553119
+Mozambique,MOZ,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,67.8902474080755
+Mozambique,MOZ,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,47.9802616585116
+Mozambique,MOZ,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,52.9794072937659
+Mozambique,MOZ,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,44.7476668154213
+Mozambique,MOZ,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,45.1739384594371
+Mozambique,MOZ,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,44.3000207598145
+Mozambique,MOZ,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,52.0952243766935
+Mozambique,MOZ,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,55.0931161812449
+Mozambique,MOZ,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,56.0211921878897
+Mozambique,MOZ,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,42.3840873487929
+Mozambique,MOZ,2023,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,362.823902471842
+Mozambique,MOZ,2022,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,358.726924456932
+Mozambique,MOZ,2021,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,353.113453155889
+Mozambique,MOZ,2020,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,342.951858633404
+Mozambique,MOZ,2019,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,359.758855458728
+Mozambique,MOZ,2018,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,366.24803697211
+Mozambique,MOZ,2017,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,371.745909306289
+Mozambique,MOZ,2016,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,380.811701942356
+Mozambique,MOZ,2015,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,385.152864890055
+Mozambique,MOZ,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,383.326340111166
+Mozambique,MOZ,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,380.585279971265
+Mozambique,MOZ,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,364.828669567004
+Mozambique,MOZ,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,370.87053828392
+Mozambique,MOZ,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,317.88123068391
+Mozambique,MOZ,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,358.879859852038
+Mozambique,MOZ,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,338.661664169014
+Mozambique,MOZ,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,338.466191317799
+Mozambique,MOZ,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,428.692521920125
+Mozambique,MOZ,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,424.491278226506
+Mozambique,MOZ,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,426.378945530351
+Mozambique,MOZ,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,421.130474837557
+Mozambique,MOZ,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,409.455047101302
+Mozambique,MOZ,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,407.145568802881
+Mozambique,MOZ,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,396.028040920619
+Mozambique,MOZ,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,383.704803126522
+Mozambique,MOZ,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,383.191402996293
+Mozambique,MOZ,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,386.520708983801
+Mozambique,MOZ,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,384.511585412105
+Mozambique,MOZ,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,388.824017354917
+Mozambique,MOZ,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,402.283081900844
+Mozambique,MOZ,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,424.528289065617
+Mozambique,MOZ,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,429.60033297268
+Mozambique,MOZ,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,432.848027122691
+Mozambique,MOZ,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,443.813072808251
+Mozambique,MOZ,2025,Time to obtain an electrical connection (days),IC.ELC.DURS,22.18401909
+Mozambique,MOZ,2018,Time to obtain an electrical connection (days),IC.ELC.DURS,18.12732506
+Mozambique,MOZ,2007,Time to obtain an electrical connection (days),IC.ELC.DURS,12.73215866
+Mozambique,MOZ,2025,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,15.57855701
+Mozambique,MOZ,2018,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,11.43170547
+Mozambique,MOZ,2007,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,10.53573418
+Mozambique,MOZ,2025,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Mozambique,MOZ,2018,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Mozambique,MOZ,2007,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0
+Mozambique,MOZ,2024,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,720000000
+Mozambique,MOZ,2023,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,3750000
+Mozambique,MOZ,2022,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,129600000
+Mozambique,MOZ,2021,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,652300000
+Mozambique,MOZ,2020,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,40000000
+Mozambique,MOZ,2019,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,56000000
+Mozambique,MOZ,2017,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,357000000
+Mozambique,MOZ,2014,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,200000000
+Mozambique,MOZ,2013,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,98670000
+Mozambique,MOZ,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,5800000
+Mozambique,MOZ,2003,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,600000000
+Mozambique,MOZ,2021,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,17177660.5139522
+Mozambique,MOZ,2020,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4374814.57841569
+Mozambique,MOZ,2019,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3279635.60573351
+Mozambique,MOZ,2018,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3542138.67853499
+Mozambique,MOZ,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,15300569.4264756
+Mozambique,MOZ,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,20848631.1381833
+Mozambique,MOZ,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1487361.53615713
+Mozambique,MOZ,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1603986.33689008
+Mozambique,MOZ,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1976237.96911599
+Mozambique,MOZ,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2636336.45222674
+Mozambique,MOZ,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1748663.5479757
+Mozambique,MOZ,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,966690.762402791
+Mozambique,MOZ,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3450106.57572193
+Mozambique,MOZ,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1653580.75268316
+Mozambique,MOZ,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,436768.112721277
+Mozambique,MOZ,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,338591.105822745
+Mozambique,MOZ,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,91883.2889117032
+Mozambique,MOZ,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,50624.9629709577
+Mozambique,MOZ,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,59823.7388559297
+Mozambique,MOZ,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,44780.876224325
+Mozambique,MOZ,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,34510.4209781155
+Mozambique,MOZ,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,38357.9144695007
+Mozambique,MOZ,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,20055.6851873549
+Mozambique,MOZ,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,26285.829136752
+Mozambique,MOZ,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,14869.8534846444
+Mozambique,MOZ,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8508.66306979379
+Mozambique,MOZ,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,255179.905353026
+Mozambique,MOZ,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1158859.13463535
+Mozambique,MOZ,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,62449.3889057092
+Mozambique,MOZ,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,131100.793989547
+Mozambique,MOZ,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,336436.466253386
+Mozambique,MOZ,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,123378.7197404
+Mozambique,MOZ,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,347396.07541278
+Mozambique,MOZ,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,78128.034408206
+Mozambique,MOZ,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,64267.4378029363
+Mozambique,MOZ,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,18016.5107851403
+Mozambique,MOZ,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,31096.1619189362
+Mozambique,MOZ,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Mozambique,MOZ,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Mozambique,MOZ,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Mozambique,MOZ,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Mozambique,MOZ,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,122789.275669395
+Mozambique,MOZ,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,111935.438277709
+Mozambique,MOZ,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,80317.6955095358
+Mozambique,MOZ,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,922977.274455054
+Mozambique,MOZ,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,789206.570219364
+Mozambique,MOZ,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,761793.252573618
+Mozambique,MOZ,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2030898.84620316
+Mozambique,MOZ,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1800508.05822095
+Mozambique,MOZ,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,799567.204476123
+Mozambique,MOZ,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,613110.082990819
+Mozambique,MOZ,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,352354.710227952
+Mozambique,MOZ,2021,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.111195654227638
+Mozambique,MOZ,2020,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.031835587185912
+Mozambique,MOZ,2019,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0217000446700077
+Mozambique,MOZ,2018,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0243294846323903
+Mozambique,MOZ,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.119168627636063
+Mozambique,MOZ,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.178170579653046
+Mozambique,MOZ,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00950339998647004
+Mozambique,MOZ,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00915821990748817
+Mozambique,MOZ,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0116828411489366
+Mozambique,MOZ,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0161983515220508
+Mozambique,MOZ,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.012378733720889
+Mozambique,MOZ,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00899676270795933
+Mozambique,MOZ,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0296587921831547
+Mozambique,MOZ,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0138789344644311
+Mozambique,MOZ,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00443002658830708
+Mozambique,MOZ,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00396363623966476
+Mozambique,MOZ,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0011229618170001
+Mozambique,MOZ,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000678648186543113
+Mozambique,MOZ,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000974663695057439
+Mozambique,MOZ,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000882585721013636
+Mozambique,MOZ,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000667160792565704
+Mozambique,MOZ,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000702067747584615
+Mozambique,MOZ,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00034267945235218
+Mozambique,MOZ,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000511937526360296
+Mozambique,MOZ,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00032584802126061
+Mozambique,MOZ,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000226029737170312
+Mozambique,MOZ,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00914996673799582
+Mozambique,MOZ,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0435411984483145
+Mozambique,MOZ,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00240640282895286
+Mozambique,MOZ,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00524182471934005
+Mozambique,MOZ,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00954211491123286
+Mozambique,MOZ,2021,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,93211241.9347799
+Mozambique,MOZ,2020,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,43667707.3600735
+Mozambique,MOZ,2019,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,78266102.878005
+Mozambique,MOZ,2018,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,119484517.311963
+Mozambique,MOZ,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,81779672.5671311
+Mozambique,MOZ,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,37270971.6797642
+Mozambique,MOZ,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,40589370.4002936
+Mozambique,MOZ,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,56142875.2159085
+Mozambique,MOZ,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,309089285.358931
+Mozambique,MOZ,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,286377975.690385
+Mozambique,MOZ,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,233094070.500891
+Mozambique,MOZ,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,129114117.256998
+Mozambique,MOZ,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,102477355.282508
+Mozambique,MOZ,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,166023080.250138
+Mozambique,MOZ,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,110577904.870688
+Mozambique,MOZ,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,108518341.010439
+Mozambique,MOZ,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,37112766.2115198
+Mozambique,MOZ,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,19962736.1106452
+Mozambique,MOZ,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,44614.6024768938
+Mozambique,MOZ,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,46478.5828597994
+Mozambique,MOZ,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,45192.3795688827
+Mozambique,MOZ,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,14769.9332534028
+Mozambique,MOZ,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10805.4749596733
+Mozambique,MOZ,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16803.6545602191
+Mozambique,MOZ,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,23243.5538516133
+Mozambique,MOZ,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,32217.1184575999
+Mozambique,MOZ,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,70209.4480683435
+Mozambique,MOZ,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,51390.0700699247
+Mozambique,MOZ,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,48854.2284886635
+Mozambique,MOZ,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,67693.4697071124
+Mozambique,MOZ,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,79698.0224110551
+Mozambique,MOZ,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,78012.852602202
+Mozambique,MOZ,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,91841.0842249021
+Mozambique,MOZ,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,69604.6422794572
+Mozambique,MOZ,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,52333.7481472522
+Mozambique,MOZ,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,6732.58556978956
+Mozambique,MOZ,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,76194.3321375168
+Mozambique,MOZ,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,77604.3141533116
+Mozambique,MOZ,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,140730.094638312
+Mozambique,MOZ,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,787317.004030479
+Mozambique,MOZ,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1246639.34325418
+Mozambique,MOZ,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,526459.03276977
+Mozambique,MOZ,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,359714.373194899
+Mozambique,MOZ,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,258932.811508865
+Mozambique,MOZ,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,595452.997185916
+Mozambique,MOZ,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,969142.975436848
+Mozambique,MOZ,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,995971.449599273
+Mozambique,MOZ,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,380219.663979979
+Mozambique,MOZ,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,202617.601668943
+Mozambique,MOZ,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,139786.568663533
+Mozambique,MOZ,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,121841.112638585
+Mozambique,MOZ,2021,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.603381643262188
+Mozambique,MOZ,2020,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.317770520316306
+Mozambique,MOZ,2019,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.517855680561279
+Mozambique,MOZ,2018,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.820689699521392
+Mozambique,MOZ,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.636941742278441
+Mozambique,MOZ,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.318514466700594
+Mozambique,MOZ,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.259343147402884
+Mozambique,MOZ,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.320556843684132
+Mozambique,MOZ,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.82722985699036
+Mozambique,MOZ,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.75958236077495
+Mozambique,MOZ,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.65006552231782
+Mozambique,MOZ,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.20163460786733
+Mozambique,MOZ,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.880945129402917
+Mozambique,MOZ,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.39347500667006
+Mozambique,MOZ,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.12156323776559
+Mozambique,MOZ,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.27034414578641
+Mozambique,MOZ,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.453577792789258
+Mozambique,MOZ,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.267608584083312
+Mozambique,MOZ,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000726872544833228
+Mozambique,MOZ,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000916045799539876
+Mozambique,MOZ,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000873666067134493
+Mozambique,MOZ,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000270335181529137
+Mozambique,MOZ,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000184626663561744
+Mozambique,MOZ,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000327264599667653
+Mozambique,MOZ,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000509343689057455
+Mozambique,MOZ,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000855836781598241
+Mozambique,MOZ,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00251749491649684
+Mozambique,MOZ,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00193085179407198
+Mozambique,MOZ,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00188253169008483
+Mozambique,MOZ,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0027065991902149
+Mozambique,MOZ,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00226041991379002
+Mozambique,MOZ,2021,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.714577297489826
+Mozambique,MOZ,2020,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.349606107502218
+Mozambique,MOZ,2019,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.539555725231287
+Mozambique,MOZ,2018,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.845019184153782
+Mozambique,MOZ,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.756110369914504
+Mozambique,MOZ,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.49668504635364
+Mozambique,MOZ,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.268846547389354
+Mozambique,MOZ,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.32971506359162
+Mozambique,MOZ,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.8389126981393
+Mozambique,MOZ,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.775780712297
+Mozambique,MOZ,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.66244425603871
+Mozambique,MOZ,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.21063137057529
+Mozambique,MOZ,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.910603921586072
+Mozambique,MOZ,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.40735394113449
+Mozambique,MOZ,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.1259932643539
+Mozambique,MOZ,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.27430778202607
+Mozambique,MOZ,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.55149774377163
+Mozambique,MOZ,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.47773859442012
+Mozambique,MOZ,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.7222818325397
+Mozambique,MOZ,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.99303258084977
+Mozambique,MOZ,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.28137609502809
+Mozambique,MOZ,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.42746592946402
+Mozambique,MOZ,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.05862528611091
+Mozambique,MOZ,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.5179994485412
+Mozambique,MOZ,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.4229876121654
+Mozambique,MOZ,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.8159241722179
+Mozambique,MOZ,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,20.2333437976138
+Mozambique,MOZ,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.0956346197651
+Mozambique,MOZ,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.0139386292354
+Mozambique,MOZ,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.4085329595036
+Mozambique,MOZ,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.89589226453206
+Mozambique,MOZ,2021,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.140484013033913
+Mozambique,MOZ,2020,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0422540328494302
+Mozambique,MOZ,2019,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0266967588970236
+Mozambique,MOZ,2018,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0308173507099442
+Mozambique,MOZ,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.15108877208214
+Mozambique,MOZ,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.227730753504038
+Mozambique,MOZ,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.01247399317375
+Mozambique,MOZ,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0119843595535412
+Mozambique,MOZ,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0156633915823614
+Mozambique,MOZ,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0216963601172072
+Mozambique,MOZ,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0172522745725617
+Mozambique,MOZ,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0131069316895526
+Mozambique,MOZ,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0416701961713075
+Mozambique,MOZ,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0199685271023678
+Mozambique,MOZ,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00757898843367378
+Mozambique,MOZ,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00719191574624869
+Mozambique,MOZ,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00272998243622806
+Mozambique,MOZ,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0017211134496494
+Mozambique,MOZ,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00176381438885474
+Mozambique,MOZ,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00126032395522147
+Mozambique,MOZ,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00179701439106853
+Mozambique,MOZ,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0017922560594659
+Mozambique,MOZ,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00115956774559239
+Mozambique,MOZ,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00139472191356457
+Mozambique,MOZ,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00196124137406258
+Mozambique,MOZ,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00361152243565833
+Mozambique,MOZ,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0150093270452554
+Mozambique,MOZ,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0623178856719782
+Mozambique,MOZ,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0236055465764052
+Mozambique,MOZ,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0410030630407062
+Mozambique,MOZ,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0490377303211007
+Mozambique,MOZ,2021,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.56569180210999
+Mozambique,MOZ,2020,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.16476507105305
+Mozambique,MOZ,2019,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.70158116067819
+Mozambique,MOZ,2018,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.03979938526507
+Mozambique,MOZ,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.16082066537561
+Mozambique,MOZ,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.97200900578106
+Mozambique,MOZ,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.13938758840339
+Mozambique,MOZ,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.49412068073804
+Mozambique,MOZ,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.50355833068363
+Mozambique,MOZ,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.50717835565139
+Mozambique,MOZ,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.46277284263354
+Mozambique,MOZ,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.06799636870009
+Mozambique,MOZ,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.58858003406097
+Mozambique,MOZ,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.80233550297769
+Mozambique,MOZ,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.56645133238839
+Mozambique,MOZ,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.82989350547793
+Mozambique,MOZ,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.558866557971731
+Mozambique,MOZ,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.701308197114022
+Mozambique,MOZ,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00163856411454619
+Mozambique,MOZ,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00158881967528373
+Mozambique,MOZ,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000900031540372012
+Mozambique,MOZ,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000570471054454014
+Mozambique,MOZ,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000195249849625632
+Mozambique,MOZ,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000160685544428399
+Mozambique,MOZ,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000180662829301023
+Mozambique,MOZ,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000190428759618507
+Mozambique,MOZ,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.000240967016585059
+Mozambique,MOZ,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,9.9102686734565e-05
+Mozambique,MOZ,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,9.58458672240097e-05
+Mozambique,MOZ,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,7.8975268717056e-05
+Mozambique,MOZ,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Mozambique,MOZ,2021,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0793125662089328
+Mozambique,MOZ,2020,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0473545337657661
+Mozambique,MOZ,2019,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0821437604923504
+Mozambique,MOZ,2018,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.11025673875252
+Mozambique,MOZ,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0872960927597713
+Mozambique,MOZ,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0633248092640754
+Mozambique,MOZ,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.050045182177423
+Mozambique,MOZ,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.114254490571332
+Mozambique,MOZ,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.260362393762375
+Mozambique,MOZ,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.239401568530512
+Mozambique,MOZ,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.208892298436241
+Mozambique,MOZ,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.14400760317542
+Mozambique,MOZ,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0778446405127864
+Mozambique,MOZ,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.481285902978786
+Mozambique,MOZ,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.371732317927041
+Mozambique,MOZ,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.36782081784457
+Mozambique,MOZ,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.232148890251788
+Mozambique,MOZ,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0784873173881835
+Mozambique,MOZ,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Mozambique,MOZ,2021,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.9074768559672
+Mozambique,MOZ,2020,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.8639361284365
+Mozambique,MOZ,2019,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.6767242973038
+Mozambique,MOZ,2018,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.3975888133586
+Mozambique,MOZ,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.0510410834352
+Mozambique,MOZ,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.3133886142564
+Mozambique,MOZ,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.2160721685778
+Mozambique,MOZ,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9039028509476
+Mozambique,MOZ,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.6325534065914
+Mozambique,MOZ,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9192598207508
+Mozambique,MOZ,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.3709466025082
+Mozambique,MOZ,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2684840762505
+Mozambique,MOZ,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.0220013623256
+Mozambique,MOZ,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2039173979552
+Mozambique,MOZ,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.80505322870557
+Mozambique,MOZ,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.50524215312992
+Mozambique,MOZ,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.51808300528586
+Mozambique,MOZ,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.99532685365388
+Mozambique,MOZ,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.0969874352829
+Mozambique,MOZ,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.15607959007746
+Mozambique,MOZ,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.28945069549311
+Mozambique,MOZ,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.21223527949675
+Mozambique,MOZ,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.9357267119748
+Mozambique,MOZ,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2634941473695
+Mozambique,MOZ,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.2193510071238
+Mozambique,MOZ,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.4718745782002
+Mozambique,MOZ,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,19.4861261399571
+Mozambique,MOZ,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.452141388927
+Mozambique,MOZ,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.4594217692103
+Mozambique,MOZ,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.709030101824
+Mozambique,MOZ,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.66184544670387
+Mozambique,MOZ,2024,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.3176355219055
+Mozambique,MOZ,2023,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.3293534893939
+Mozambique,MOZ,2022,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.0551999299154
+Mozambique,MOZ,2021,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.9470445977159
+Mozambique,MOZ,2020,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.1940591105746
+Mozambique,MOZ,2019,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.5163340334696
+Mozambique,MOZ,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.7244634837792
+Mozambique,MOZ,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.8972274145551
+Mozambique,MOZ,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.1855636244827
+Mozambique,MOZ,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.9840178345337
+Mozambique,MOZ,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.4718765341325
+Mozambique,MOZ,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.3624792921648
+Mozambique,MOZ,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.8208584772312
+Mozambique,MOZ,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.5895856523526
+Mozambique,MOZ,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.9439161749834
+Mozambique,MOZ,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.4402209262805
+Mozambique,MOZ,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.215624930566
+Mozambique,MOZ,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.2154122095503
+Mozambique,MOZ,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.9027554277162
+Mozambique,MOZ,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.62697914647131
+Mozambique,MOZ,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.5203319828638
+Mozambique,MOZ,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.1954539653365
+Mozambique,MOZ,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.47555031262305
+Mozambique,MOZ,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.90358238950017
+Mozambique,MOZ,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.3241122527834
+Mozambique,MOZ,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.8047832593308
+Mozambique,MOZ,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.4831845110713
+Mozambique,MOZ,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.89627106800497
+Mozambique,MOZ,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.0520022425852
+Mozambique,MOZ,2024,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.89064991670565
+Mozambique,MOZ,2023,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21732847277898
+Mozambique,MOZ,2022,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.393544969775787
+Mozambique,MOZ,2021,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.15544176609162
+Mozambique,MOZ,2020,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.95030777171643
+Mozambique,MOZ,2019,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.71052004440843
+Mozambique,MOZ,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,7.13778729214873
+Mozambique,MOZ,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,9.07438485667684
+Mozambique,MOZ,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.78162750435589
+Mozambique,MOZ,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,6.49262549962765
+Mozambique,MOZ,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,6.7092588215886
+Mozambique,MOZ,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,5.29736033507388
+Mozambique,MOZ,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,9.39613798704473
+Mozambique,MOZ,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,11.1337980067708
+Mozambique,MOZ,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.508751843989144
+Mozambique,MOZ,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.479529047824688
+Mozambique,MOZ,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.409638748935344
+Mozambique,MOZ,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.341265848473273
+Mozambique,MOZ,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.425307708676556
+Mozambique,MOZ,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.461690958114191
+Mozambique,MOZ,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.307975178190006
+Mozambique,MOZ,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.355888879281979
+Mozambique,MOZ,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.267951255989261
+Mozambique,MOZ,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.239798235495391
+Mozambique,MOZ,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.82923381103157
+Mozambique,MOZ,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.795544819440466
+Mozambique,MOZ,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.35875640889688
+Mozambique,MOZ,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.612524776785407
+Mozambique,MOZ,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.893357719915811
+Mozambique,MOZ,2024,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,58.9003236000415
+Mozambique,MOZ,2023,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,57.6135156555006
+Mozambique,MOZ,2022,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,50.7186898345651
+Mozambique,MOZ,2021,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,41.1381955498654
+Mozambique,MOZ,2020,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,36.8617331036982
+Mozambique,MOZ,2019,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,41.7750444782821
+Mozambique,MOZ,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,39.4919610313499
+Mozambique,MOZ,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,51.1579324800007
+Mozambique,MOZ,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,27.8780163383368
+Mozambique,MOZ,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,31.0071856421793
+Mozambique,MOZ,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,30.0376104079026
+Mozambique,MOZ,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,33.4629142605243
+Mozambique,MOZ,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,27.8069556417501
+Mozambique,MOZ,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,16.2781018823468
+Mozambique,MOZ,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,19.6535941900502
+Mozambique,MOZ,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,17.4275034733367
+Mozambique,MOZ,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,10.8435592127921
+Mozambique,MOZ,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,15.4818802550736
+Mozambique,MOZ,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,14.6620455439789
+Mozambique,MOZ,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,14.9128661991674
+Mozambique,MOZ,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.4214437884527
+Mozambique,MOZ,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.0197593239368
+Mozambique,MOZ,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.3385853092917
+Mozambique,MOZ,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.24417224300499
+Mozambique,MOZ,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,20.9936116957265
+Mozambique,MOZ,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,25.1558681048893
+Mozambique,MOZ,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.574072201050605
+Mozambique,MOZ,1996,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.19335648096955
+Mozambique,MOZ,1995,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.0367767291087
+Mozambique,MOZ,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,9.00553126353086
+Mozambique,MOZ,2024,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,23.2777710502032
+Mozambique,MOZ,2023,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,23.2868932752681
+Mozambique,MOZ,2022,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.4675661590987
+Mozambique,MOZ,2021,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.7879108669746
+Mozambique,MOZ,2020,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.9241235099286
+Mozambique,MOZ,2019,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.5783345210747
+Mozambique,MOZ,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,27.2619529507557
+Mozambique,MOZ,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.2596151140669
+Mozambique,MOZ,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.537015600755
+Mozambique,MOZ,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,38.1666974909423
+Mozambique,MOZ,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.424834860925
+Mozambique,MOZ,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,31.0274419767266
+Mozambique,MOZ,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,38.9540091086089
+Mozambique,MOZ,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,50.6164892492421
+Mozambique,MOZ,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,54.4350322992141
+Mozambique,MOZ,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.89577007455685
+Mozambique,MOZ,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,57.1767016900715
+Mozambique,MOZ,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,63.9600174907897
+Mozambique,MOZ,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,59.89562468604
+Mozambique,MOZ,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,59.4119247777805
+Mozambique,MOZ,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,61.5258863677345
+Mozambique,MOZ,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,54.8763997123292
+Mozambique,MOZ,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,45.0710523770754
+Mozambique,MOZ,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,54.8850522217756
+Mozambique,MOZ,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.3045831707706
+Mozambique,MOZ,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.65775920871146
+Mozambique,MOZ,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.26262997971364
+Mozambique,MOZ,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.95868810403167
+Mozambique,MOZ,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.30012335408359
+Mozambique,MOZ,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.76183245211219
