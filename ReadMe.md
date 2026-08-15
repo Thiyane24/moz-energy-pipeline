@@ -60,5 +60,8 @@ pytest tests/unit_test.py -v
 
 ## Data Source
 
-World Bank — Energy & Mining indicators for Mozambique  
+World Bank Energy & Mining indicators for Mozambique  
 https://data.worldbank.org
+
+Data sourced from Kutiva by HercoZauZau
+https://github.com/HercoZauZau/Kutiva
